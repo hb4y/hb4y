@@ -5,7 +5,7 @@
 ## I'm a Developer and Pentester!!
 
 - 🌱 I’m currently learning NodeJS and Go.
-- 👯 I’m looking to work as a Backend developer.
+- :raised_hands: I’m looking to work as a Backend developer.
 - 🥅 2020 Goals: Start my own youtube channel.
 - ⚡ Fun fact: I used to be a professional archer.
 
