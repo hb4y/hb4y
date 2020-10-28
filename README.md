@@ -49,20 +49,9 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### GitHub Stats
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="hb4y's GitHub Stats" src="https://github-readme-stats-orpin-kappa.vercel.app/api?username=hb4y&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="hb4y's GitHub Stats" src="https://github-readme-stats-orpin-kappa.vercel.app/api?username=hb4y&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/BatmanEsFriki
 [linkedin]: https://www.linkedin.com/in/hugo-bayona/
