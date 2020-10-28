@@ -38,6 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Memory](https://medium.com/@hugobaymon/virtual-memory-972986e4a80b?source=rss-2cb9c4976bbf------2)
+- [The /proc filesystem](https://medium.com/@hugobaymon/the-proc-filesystem-b5e930d771d2?source=rss-2cb9c4976bbf------2)
+- [Machine learning — What?](https://medium.com/@hugobaymon/machine-learning-what-b225d319969d?source=rss-2cb9c4976bbf------2)
+- [What happens when you type ls -l in the shell?](https://medium.com/@hugobaymon/what-happens-when-you-type-ls-l-in-the-shell-3ee32d7019fd?source=rss-2cb9c4976bbf------2)
+- [gcc main.c | Analysis for beginners | Linux](https://medium.com/@hugobaymon/gcc-main-c-analysis-for-beginners-linux-375ca1b50419?source=rss-2cb9c4976bbf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@hugobaymon)
