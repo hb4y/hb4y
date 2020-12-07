@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning NodeJS and Go.
 - :raised_hands: I’m looking to work as a Backend developer.
-- 🥅 2020 Goals: Start my own youtube channel.
+- 🥅 2021 Goals: Start my own youtube channel.
 - ⚡ Fun fact: I used to be a professional archer.
 
 
