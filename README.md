@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hb4y | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][twitter]
+[<img align="left" alt="hb4y | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 [<img align="left" alt="hb4y | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
 
 <br />
