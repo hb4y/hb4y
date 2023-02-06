@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BatmanEsFriki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhb4y&screen_name=BatmanEsFriki)
 
-## I'm a Developer and Pentester!!
+## DevOps and Pentester!!
 
 - 🌱 Learning to learn and learning to teach.
 - 🥅 2023 Goals: Start my own youtube channel.
